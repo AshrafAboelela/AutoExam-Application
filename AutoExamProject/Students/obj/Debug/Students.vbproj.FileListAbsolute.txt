@@ -1,0 +1,12 @@
+C:\Users\ash\Desktop\AutoExam\ExamProject\Students\bin\Debug\Students.exe.config
+C:\Users\ash\Desktop\AutoExam\ExamProject\Students\bin\Debug\Students.exe
+C:\Users\ash\Desktop\AutoExam\ExamProject\Students\bin\Debug\Students.pdb
+C:\Users\ash\Desktop\AutoExam\ExamProject\Students\bin\Debug\Students.xml
+C:\Users\ash\Desktop\AutoExam\ExamProject\Students\obj\Debug\Students.StudentForm.resources
+C:\Users\ash\Desktop\AutoExam\ExamProject\Students\obj\Debug\Students.Resources.resources
+C:\Users\ash\Desktop\AutoExam\ExamProject\Students\obj\Debug\Students.vbproj.GenerateResource.Cache
+C:\Users\ash\Desktop\AutoExam\ExamProject\Students\obj\Debug\Students.exe
+C:\Users\ash\Desktop\AutoExam\ExamProject\Students\obj\Debug\Students.xml
+C:\Users\ash\Desktop\AutoExam\ExamProject\Students\obj\Debug\Students.pdb
+C:\Users\ash\Desktop\AutoExam\ExamProject\Students\obj\Debug\Students.vbprojResolveAssemblyReference.cache
+C:\Users\ash\Desktop\AutoExam\ExamProject\Students\obj\Debug\Students.ShowResult.resources

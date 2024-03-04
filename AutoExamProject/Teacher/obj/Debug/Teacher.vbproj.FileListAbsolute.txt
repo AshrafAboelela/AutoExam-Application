@@ -1,0 +1,11 @@
+C:\Users\ash\Desktop\AutoExam\ExamProject\Teacher\bin\Debug\Teacher.exe.config
+C:\Users\ash\Desktop\AutoExam\ExamProject\Teacher\obj\Debug\Teacher.Resources.resources
+C:\Users\ash\Desktop\AutoExam\ExamProject\Teacher\obj\Debug\Teacher.vbproj.GenerateResource.Cache
+C:\Users\ash\Desktop\AutoExam\ExamProject\Teacher\bin\Debug\Teacher.exe
+C:\Users\ash\Desktop\AutoExam\ExamProject\Teacher\bin\Debug\Teacher.pdb
+C:\Users\ash\Desktop\AutoExam\ExamProject\Teacher\bin\Debug\Teacher.xml
+C:\Users\ash\Desktop\AutoExam\ExamProject\Teacher\obj\Debug\Teacher.LoginForm.resources
+C:\Users\ash\Desktop\AutoExam\ExamProject\Teacher\obj\Debug\Teacher.TeacherForm.resources
+C:\Users\ash\Desktop\AutoExam\ExamProject\Teacher\obj\Debug\Teacher.exe
+C:\Users\ash\Desktop\AutoExam\ExamProject\Teacher\obj\Debug\Teacher.xml
+C:\Users\ash\Desktop\AutoExam\ExamProject\Teacher\obj\Debug\Teacher.pdb
